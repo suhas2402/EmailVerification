@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body style='text-align:center'>
-      <h2> You have successfully Logged In!....Welcome </h2>
+      <h2>  successfully Logged In!....Welcome </h2>
       
       
       

@@ -10,7 +10,7 @@
 <body style="background-color: #f5f5f5;">
 	<div class="text-center p-5">
 	   <h1>Thank You For Registration!</h1>
-	   <p class="lead">Please Check your Email for Account Verification Link.</p>
+	   <p class="lead"> Check your Email for Account Verification Link.</p>
 	   
 	</div>
 	
