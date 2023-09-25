@@ -34,7 +34,7 @@ public class SendingEmail {
 	public void sendMail() {
 
 		String from = "suhass2402@gmail.com";
-		String password = "jaisriram9";
+		String password = "";
 
 		Properties theProperties = new Properties();
 
